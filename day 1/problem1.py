@@ -18,4 +18,3 @@ for i in f:
     j = j + 1
 
 print(f)
-
